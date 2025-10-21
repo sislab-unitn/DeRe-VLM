@@ -1,0 +1,17 @@
+{
+    "model_name": "internvl3-8b",
+    "batch_size": 1,
+    "device": "cuda:1",
+    "out_dir": "output/internvl3-8b/counting_distractors_1_672_large_dist_large_magenta_star",
+    "parallel": false,
+    "seed": 42,
+    "command": "evaluate",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/counting_distractors_1_672_large_dist_large_magenta_star",
+    "experiment_name": "counting_distractors_1_672_large_dist_large_magenta_star",
+    "debug": false,
+    "save_every": 1000,
+    "instruction": "Answer using as few words as possible",
+    "max_new_tokens": 5,
+    "open_ended_questions": false,
+    "override": false
+}

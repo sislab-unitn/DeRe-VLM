@@ -1,0 +1,14 @@
+{
+    "model_name": "qwen2-vl-7b",
+    "batch_size": 1,
+    "device": "cuda",
+    "out_dir": "output/qwen2-vl-7b/pixmo-count-train",
+    "parallel": true,
+    "seed": 42,
+    "command": "extract-train-repr",
+    "data_folder": "data/pixmo-count/train",
+    "experiment_name": "pixmo-count-train",
+    "debug": false,
+    "instruction": "Answer using as few words as possible",
+    "dataset_type": "pixmo-count"
+}

@@ -1,0 +1,15 @@
+{
+    "model_name": "llava-onevision-7b",
+    "batch_size": 1,
+    "device": "cuda:1",
+    "out_dir": "output/llava-onevision-7b/per-layer-analysis",
+    "parallel": false,
+    "seed": 42,
+    "command": "test-encoder-repr",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/counting_balanced_672_large_all",
+    "experiment_name": "per-layer-analysis",
+    "debug": false,
+    "instruction": "Answer using as few words as possible",
+    "per_ent_analysis": false,
+    "save_plots": false
+}

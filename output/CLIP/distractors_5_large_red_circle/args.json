@@ -1,0 +1,17 @@
+{
+    "model_name": "CLIP",
+    "batch_size": 4,
+    "device": "cuda",
+    "out_dir": "output/CLIP/counting_distractors_5_672_large_dist_large_red_circle",
+    "parallel": false,
+    "seed": 42,
+    "command": "evaluate",
+    "data_folder": "/scratch/alghisius/.cache/counting/data/counting_distractors_5_672_large_dist_large_red_circle",
+    "experiment_name": "counting_distractors_5_672_large_dist_large_red_circle",
+    "debug": false,
+    "save_every": 1000,
+    "instruction": "Answer using as few words as possible",
+    "max_new_tokens": 5,
+    "open_ended_questions": false,
+    "override": false
+}

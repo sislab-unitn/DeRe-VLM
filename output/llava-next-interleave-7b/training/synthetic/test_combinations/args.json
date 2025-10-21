@@ -1,0 +1,14 @@
+{
+    "model_name": "llava-next-interleave-7b",
+    "batch_size": 1,
+    "device": "cuda:1",
+    "out_dir": "repr/llava-next-interleave-7b/counting_balanced_672_large_all",
+    "parallel": false,
+    "seed": 42,
+    "command": "extract-train-repr",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/counting_balanced_672_large_all",
+    "experiment_name": "counting_balanced_672_large_all",
+    "debug": false,
+    "instruction": "Answer using as few words as possible",
+    "dataset_type": "sure"
+}

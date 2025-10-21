@@ -1,0 +1,14 @@
+{
+    "model_name": "llava-onevision-7b",
+    "batch_size": 1,
+    "device": "cuda:1",
+    "out_dir": "repr/llava-onevision-7b/unseen_combinations_balanced_672_large",
+    "parallel": false,
+    "seed": 42,
+    "command": "extract-train-repr",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/unseen_combinations_balanced_672_large",
+    "experiment_name": "unseen_combinations_balanced_672_large",
+    "debug": false,
+    "instruction": "Answer using as few words as possible",
+    "dataset_type": "sure"
+}

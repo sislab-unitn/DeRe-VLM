@@ -1,0 +1,13 @@
+{
+    "model_name": "qwen2-vl-7b",
+    "batch_size": 1,
+    "device": "cuda",
+    "out_dir": "repr/qwen2-vl-7b/counting_balanced_672_large_all",
+    "parallel": false,
+    "seed": 42,
+    "command": "extract-train-repr",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/counting_balanced_672_large_all",
+    "experiment_name": "counting_balanced_672_large_all",
+    "debug": false,
+    "instruction": "Answer using as few words as possible"
+}

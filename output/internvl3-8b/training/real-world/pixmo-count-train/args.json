@@ -1,0 +1,14 @@
+{
+    "model_name": "internvl3-8b",
+    "batch_size": 1,
+    "device": "cuda:1",
+    "out_dir": "output/internvl3-8b/pixmo-count-train",
+    "parallel": false,
+    "seed": 42,
+    "command": "extract-train-repr",
+    "data_folder": "data/pixmo-count/train",
+    "experiment_name": "pixmo-count-train",
+    "debug": false,
+    "instruction": "Answer using as few words as possible",
+    "dataset_type": "pixmo-count"
+}

@@ -1,0 +1,14 @@
+{
+    "model_name": "internvl3-8b",
+    "batch_size": 4,
+    "device": "cuda",
+    "out_dir": "output/internvl3-8b/baseline",
+    "parallel": false,
+    "seed": 42,
+    "command": "baseline",
+    "instruction": "Answer using as few words as possible",
+    "max_new_tokens": 5,
+    "test_on": "pixmo-count",
+    "data_folder": "data/pixmo-count",
+    "experiment_name": "baseline"
+}

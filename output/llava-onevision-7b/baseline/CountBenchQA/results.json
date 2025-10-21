@@ -1,0 +1,2457 @@
+{
+    "0": {
+        "target": 10,
+        "input": "How many headsets are there in the image?",
+        "pred": 10
+    },
+    "1": {
+        "target": 3,
+        "input": "How many light bulbs are there in the image?",
+        "pred": 3
+    },
+    "2": {
+        "target": 3,
+        "input": "How many prints are there in the image?",
+        "pred": 3
+    },
+    "3": {
+        "target": 8,
+        "input": "How many arrows are there in the image?",
+        "pred": 12
+    },
+    "4": {
+        "target": 6,
+        "input": "How many spoons are there in the image?",
+        "pred": 6
+    },
+    "5": {
+        "target": 2,
+        "input": "How many girls are there in the image?",
+        "pred": 2
+    },
+    "6": {
+        "target": 4,
+        "input": "How many parrots are there in the image?",
+        "pred": 4
+    },
+    "7": {
+        "target": 7,
+        "input": "How many coloring pages are there in the image?",
+        "pred": 7
+    },
+    "8": {
+        "target": 4,
+        "input": "How many food containers are there in the image?",
+        "pred": 4
+    },
+    "9": {
+        "target": 9,
+        "input": "How many birdhouse patterns are there in the image?",
+        "pred": 9
+    },
+    "10": {
+        "target": 2,
+        "input": "How many sofas are there in the image?",
+        "pred": 2
+    },
+    "11": {
+        "target": 3,
+        "input": "How many waterlilies are there in the image?",
+        "pred": 3
+    },
+    "12": {
+        "target": 8,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    },
+    "13": {
+        "target": 8,
+        "input": "How many eggs are there in the image?",
+        "pred": 8
+    },
+    "14": {
+        "target": 9,
+        "input": "How many golfers are there in the image?",
+        "pred": 8
+    },
+    "15": {
+        "target": 2,
+        "input": "How many people are there in the image?",
+        "pred": 2
+    },
+    "16": {
+        "target": 4,
+        "input": "How many outfits are there in the image?",
+        "pred": 4
+    },
+    "17": {
+        "target": 3,
+        "input": "How many pigs are there in the image?",
+        "pred": 3
+    },
+    "18": {
+        "target": 5,
+        "input": "How many cars are there in the image?",
+        "pred": 6
+    },
+    "19": {
+        "target": 9,
+        "input": "How many aum symbols are there in the image?",
+        "pred": 9
+    },
+    "20": {
+        "target": 3,
+        "input": "How many men are there in the image?",
+        "pred": 3
+    },
+    "21": {
+        "target": 6,
+        "input": "How many chairs are there in the image?",
+        "pred": 8
+    },
+    "22": {
+        "target": 9,
+        "input": "How many buttons are there in the image?",
+        "pred": 9
+    },
+    "23": {
+        "target": 2,
+        "input": "How many rackets are there in the image?",
+        "pred": 2
+    },
+    "24": {
+        "target": 4,
+        "input": "How many pots are there in the image?",
+        "pred": 2
+    },
+    "25": {
+        "target": 5,
+        "input": "How many stars are there in the image?",
+        "pred": 5
+    },
+    "26": {
+        "target": 10,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    },
+    "27": {
+        "target": 10,
+        "input": "How many dice are there in the image?",
+        "pred": 10
+    },
+    "28": {
+        "target": 10,
+        "input": "How many silhouettes are there in the image?",
+        "pred": 10
+    },
+    "29": {
+        "target": 5,
+        "input": "How many kids are there in the image?",
+        "pred": 5
+    },
+    "30": {
+        "target": 2,
+        "input": "How many moth silhouettes are there in the image?",
+        "pred": 2
+    },
+    "31": {
+        "target": 3,
+        "input": "How many pumpkin candles are there in the image?",
+        "pred": 3
+    },
+    "32": {
+        "target": 10,
+        "input": "How many stencils are there in the image?",
+        "pred": 9
+    },
+    "33": {
+        "target": 5,
+        "input": "How many text boxes are there in the image?",
+        "pred": 5
+    },
+    "34": {
+        "target": 6,
+        "input": "How many basketball players are there in the image?",
+        "pred": 6
+    },
+    "35": {
+        "target": 4,
+        "input": "How many photos are there in the image?",
+        "pred": 4
+    },
+    "36": {
+        "target": 4,
+        "input": "How many forks are there in the image?",
+        "pred": 4
+    },
+    "37": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "38": {
+        "target": 7,
+        "input": "How many bags are there in the image?",
+        "pred": 7
+    },
+    "39": {
+        "target": 3,
+        "input": "How many couples are there in the image?",
+        "pred": 4
+    },
+    "40": {
+        "target": 2,
+        "input": "How many weights are there in the image?",
+        "pred": 2
+    },
+    "41": {
+        "target": 3,
+        "input": "How many women are there in the image?",
+        "pred": 3
+    },
+    "42": {
+        "target": 5,
+        "input": "How many fish are there in the image?",
+        "pred": 5
+    },
+    "43": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "44": {
+        "target": 8,
+        "input": "How many clocks are there in the image?",
+        "pred": 12
+    },
+    "45": {
+        "target": 4,
+        "input": "How many banners are there in the image?",
+        "pred": 4
+    },
+    "46": {
+        "target": 6,
+        "input": "How many chests are there in the image?",
+        "pred": 6
+    },
+    "47": {
+        "target": 2,
+        "input": "How many stars are there in the image?",
+        "pred": 2
+    },
+    "48": {
+        "target": 9,
+        "input": "How many globe icons are there in the image?",
+        "pred": 9
+    },
+    "49": {
+        "target": 5,
+        "input": "How many men are there in the image?",
+        "pred": 5
+    },
+    "50": {
+        "target": 4,
+        "input": "How many snails are there in the image?",
+        "pred": 4
+    },
+    "51": {
+        "target": 4,
+        "input": "How many crochet potholders are there in the image?",
+        "pred": 4
+    },
+    "52": {
+        "target": 10,
+        "input": "How many christmas cards are there in the image?",
+        "pred": 10
+    },
+    "53": {
+        "target": 2,
+        "input": "How many double beds are there in the image?",
+        "pred": 2
+    },
+    "54": {
+        "target": 9,
+        "input": "How many baseball players are there in the image?",
+        "pred": 9
+    },
+    "55": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "56": {
+        "target": 9,
+        "input": "How many symbols are there in the image?",
+        "pred": 10
+    },
+    "57": {
+        "target": 4,
+        "input": "How many cars are there in the image?",
+        "pred": 4
+    },
+    "58": {
+        "target": 2,
+        "input": "How many trees are there in the image?",
+        "pred": 2
+    },
+    "59": {
+        "target": 3,
+        "input": "How many people are there in the image?",
+        "pred": 3
+    },
+    "60": {
+        "target": 4,
+        "input": "How many tree trunk cuts are there in the image?",
+        "pred": 4
+    },
+    "61": {
+        "target": 6,
+        "input": "How many women are there in the image?",
+        "pred": 1
+    },
+    "62": {
+        "target": 10,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    },
+    "63": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "64": {
+        "target": 2,
+        "input": "How many banners are there in the image?",
+        "pred": 2
+    },
+    "65": {
+        "target": 8,
+        "input": "How many people are there in the image?",
+        "pred": 10
+    },
+    "66": {
+        "target": 6,
+        "input": "How many individual earrings are there in the image?",
+        "pred": 6
+    },
+    "67": {
+        "target": 10,
+        "input": "How many men are there in the image?",
+        "pred": 11
+    },
+    "68": {
+        "target": 3,
+        "input": "How many tomatoes are there in the image?",
+        "pred": 3
+    },
+    "69": {
+        "target": 6,
+        "input": "How many chairs are there in the image?",
+        "pred": 6
+    },
+    "70": {
+        "target": 8,
+        "input": "How many ice creams are there in the image?",
+        "pred": 12
+    },
+    "71": {
+        "target": 6,
+        "input": "How many plates are there in the image?",
+        "pred": 6
+    },
+    "72": {
+        "target": 2,
+        "input": "How many sumo wrestlers are there in the image?",
+        "pred": 2
+    },
+    "73": {
+        "target": 4,
+        "input": "How many compositions are there in the image?",
+        "pred": 4
+    },
+    "74": {
+        "target": 6,
+        "input": "How many PVC vinyls are there in the image?",
+        "pred": 0
+    },
+    "75": {
+        "target": 9,
+        "input": "How many photos of fruit are there in the image?",
+        "pred": 9
+    },
+    "76": {
+        "target": 8,
+        "input": "How many people are there in the image?",
+        "pred": 8
+    },
+    "77": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 10
+    },
+    "78": {
+        "target": 7,
+        "input": "How many bottles are there in the image?",
+        "pred": 7
+    },
+    "79": {
+        "target": 2,
+        "input": "How many mirrors are there in the image?",
+        "pred": 2
+    },
+    "80": {
+        "target": 10,
+        "input": "How many posters are there in the image?",
+        "pred": 10
+    },
+    "81": {
+        "target": 10,
+        "input": "How many pumpkins are there in the image?",
+        "pred": 10
+    },
+    "82": {
+        "target": 5,
+        "input": "How many people are there in the image?",
+        "pred": 5
+    },
+    "83": {
+        "target": 5,
+        "input": "How many kittens are there in the image?",
+        "pred": 5
+    },
+    "84": {
+        "target": 7,
+        "input": "How many people are there in the image?",
+        "pred": 7
+    },
+    "85": {
+        "target": 7,
+        "input": "How many boots are there in the image?",
+        "pred": 8
+    },
+    "86": {
+        "target": 5,
+        "input": "How many figurines are there in the image?",
+        "pred": 6
+    },
+    "87": {
+        "target": 7,
+        "input": "How many moais are there in the image?",
+        "pred": 8
+    },
+    "88": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "89": {
+        "target": 6,
+        "input": "How many cats are there in the image?",
+        "pred": 6
+    },
+    "90": {
+        "target": 4,
+        "input": "How many wallpaper variants are there in the image?",
+        "pred": 4
+    },
+    "91": {
+        "target": 5,
+        "input": "How many nail polishes are there in the image?",
+        "pred": 6
+    },
+    "92": {
+        "target": 4,
+        "input": "How many bumble bees are there in the image?",
+        "pred": 4
+    },
+    "93": {
+        "target": 8,
+        "input": "How many tickets are there in the image?",
+        "pred": 9
+    },
+    "94": {
+        "target": 6,
+        "input": "How many people are there in the image?",
+        "pred": 7
+    },
+    "95": {
+        "target": 2,
+        "input": "How many wine bottles are there in the image?",
+        "pred": 2
+    },
+    "96": {
+        "target": 10,
+        "input": "How many silhouettes of couples are there in the image?",
+        "pred": 12
+    },
+    "97": {
+        "target": 4,
+        "input": "How many owls are there in the image?",
+        "pred": 4
+    },
+    "98": {
+        "target": 10,
+        "input": "How many candles are there in the image?",
+        "pred": 9
+    },
+    "99": {
+        "target": 6,
+        "input": "How many flower pots are there in the image?",
+        "pred": 6
+    },
+    "100": {
+        "target": 7,
+        "input": "How many coins are there in the image?",
+        "pred": 7
+    },
+    "101": {
+        "target": 2,
+        "input": "How many placemats are there in the image?",
+        "pred": 2
+    },
+    "102": {
+        "target": 6,
+        "input": "How many women are there in the image?",
+        "pred": 6
+    },
+    "103": {
+        "target": 7,
+        "input": "How many bottles are there in the image?",
+        "pred": 7
+    },
+    "104": {
+        "target": 8,
+        "input": "How many cars are there in the image?",
+        "pred": 9
+    },
+    "105": {
+        "target": 5,
+        "input": "How many men are there in the image?",
+        "pred": 5
+    },
+    "106": {
+        "target": 3,
+        "input": "How many candles are there in the image?",
+        "pred": 3
+    },
+    "107": {
+        "target": 5,
+        "input": "How many pairs of socks are there in the image?",
+        "pred": 6
+    },
+    "108": {
+        "target": 4,
+        "input": "How many floral patterns are there in the image?",
+        "pred": 4
+    },
+    "109": {
+        "target": 6,
+        "input": "How many icons are there in the image?",
+        "pred": 6
+    },
+    "110": {
+        "target": 10,
+        "input": "How many dice are there in the image?",
+        "pred": 10
+    },
+    "111": {
+        "target": 9,
+        "input": "How many bicycles are there in the image?",
+        "pred": 10
+    },
+    "112": {
+        "target": 9,
+        "input": "How many stickers are there in the image?",
+        "pred": 9
+    },
+    "113": {
+        "target": 9,
+        "input": "How many symbols are there in the image?",
+        "pred": 10
+    },
+    "114": {
+        "target": 6,
+        "input": "How many stamps are there in the image?",
+        "pred": 6
+    },
+    "115": {
+        "target": 6,
+        "input": "How many pumpkins are there in the image?",
+        "pred": 6
+    },
+    "116": {
+        "target": 5,
+        "input": "How many game cartridges are there in the image?",
+        "pred": 0
+    },
+    "117": {
+        "target": 6,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    },
+    "118": {
+        "target": 4,
+        "input": "How many glasses are there in the image?",
+        "pred": 4
+    },
+    "119": {
+        "target": 8,
+        "input": "How many bottles are there in the image?",
+        "pred": 10
+    },
+    "120": {
+        "target": 10,
+        "input": "How many coins are there in the image?",
+        "pred": 10
+    },
+    "121": {
+        "target": 3,
+        "input": "How many gears are there in the image?",
+        "pred": 3
+    },
+    "122": {
+        "target": 9,
+        "input": "How many flowers are there in the image?",
+        "pred": 9
+    },
+    "123": {
+        "target": 4,
+        "input": "How many crip packages are there in the image?",
+        "pred": 4
+    },
+    "124": {
+        "target": 8,
+        "input": "How many bridesmaids are there in the image?",
+        "pred": 9
+    },
+    "125": {
+        "target": 7,
+        "input": "How many apples are there in the image?",
+        "pred": 7
+    },
+    "126": {
+        "target": 4,
+        "input": "How many bowls are there in the image?",
+        "pred": 4
+    },
+    "127": {
+        "target": 2,
+        "input": "How many women are there in the image?",
+        "pred": 2
+    },
+    "128": {
+        "target": 10,
+        "input": "How many photographs are there in the image?",
+        "pred": 9
+    },
+    "129": {
+        "target": 7,
+        "input": "How many warning signs are there in the image?",
+        "pred": 7
+    },
+    "130": {
+        "target": 3,
+        "input": "How many children are there in the image?",
+        "pred": 3
+    },
+    "131": {
+        "target": 4,
+        "input": "How many cyclists are there in the image?",
+        "pred": 4
+    },
+    "132": {
+        "target": 3,
+        "input": "How many women are there in the image?",
+        "pred": 3
+    },
+    "133": {
+        "target": 2,
+        "input": "How many chairs are there in the image?",
+        "pred": 2
+    },
+    "134": {
+        "target": 10,
+        "input": "How many giraffes are there in the image?",
+        "pred": 10
+    },
+    "135": {
+        "target": 5,
+        "input": "How many men are there in the image?",
+        "pred": 5
+    },
+    "136": {
+        "target": 6,
+        "input": "How many male nurses are there in the image?",
+        "pred": 6
+    },
+    "137": {
+        "target": 10,
+        "input": "How many people are there in the image?",
+        "pred": 10
+    },
+    "138": {
+        "target": 8,
+        "input": "How many couples are there in the image?",
+        "pred": 4
+    },
+    "139": {
+        "target": 4,
+        "input": "How many cars are there in the image?",
+        "pred": 4
+    },
+    "140": {
+        "target": 7,
+        "input": "How many apples are there in the image?",
+        "pred": 7
+    },
+    "141": {
+        "target": 5,
+        "input": "How many smartphones are there in the image?",
+        "pred": 5
+    },
+    "142": {
+        "target": 9,
+        "input": "How many roses are there in the image?",
+        "pred": 9
+    },
+    "143": {
+        "target": 2,
+        "input": "How many people are there in the image?",
+        "pred": 2
+    },
+    "144": {
+        "target": 10,
+        "input": "How many greeting cards are there in the image?",
+        "pred": 10
+    },
+    "145": {
+        "target": 3,
+        "input": "How many guitars are there in the image?",
+        "pred": 3
+    },
+    "146": {
+        "target": 8,
+        "input": "How many ironman suits are there in the image?",
+        "pred": 5
+    },
+    "147": {
+        "target": 7,
+        "input": "How many people are there in the image?",
+        "pred": 7
+    },
+    "148": {
+        "target": 3,
+        "input": "How many CDs are there in the image?",
+        "pred": 3
+    },
+    "149": {
+        "target": 5,
+        "input": "How many people are there in the image?",
+        "pred": 5
+    },
+    "150": {
+        "target": 9,
+        "input": "How many symbols are there in the image?",
+        "pred": 10
+    },
+    "151": {
+        "target": 5,
+        "input": "How many chairs are there in the image?",
+        "pred": 5
+    },
+    "152": {
+        "target": 3,
+        "input": "How many pot holders are there in the image?",
+        "pred": 3
+    },
+    "153": {
+        "target": 6,
+        "input": "How many stamps are there in the image?",
+        "pred": 6
+    },
+    "154": {
+        "target": 4,
+        "input": "How many bookmarks are there in the image?",
+        "pred": 4
+    },
+    "155": {
+        "target": 3,
+        "input": "How many girls are there in the image?",
+        "pred": 3
+    },
+    "156": {
+        "target": 9,
+        "input": "How many labels are there in the image?",
+        "pred": 9
+    },
+    "157": {
+        "target": 9,
+        "input": "How many mandalas are there in the image?",
+        "pred": 9
+    },
+    "158": {
+        "target": 6,
+        "input": "How many silhouettes are there in the image?",
+        "pred": 7
+    },
+    "159": {
+        "target": 2,
+        "input": "How many peacocks are there in the image?",
+        "pred": 2
+    },
+    "160": {
+        "target": 7,
+        "input": "How many roses are there in the image?",
+        "pred": 7
+    },
+    "161": {
+        "target": 5,
+        "input": "How many children are there in the image?",
+        "pred": 6
+    },
+    "162": {
+        "target": 6,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    },
+    "163": {
+        "target": 9,
+        "input": "How many symbols are there in the image?",
+        "pred": 10
+    },
+    "164": {
+        "target": 4,
+        "input": "How many canvases are there in the image?",
+        "pred": 4
+    },
+    "165": {
+        "target": 4,
+        "input": "How many cards are there in the image?",
+        "pred": 4
+    },
+    "166": {
+        "target": 8,
+        "input": "How many bell pepper halves are there in the image?",
+        "pred": 12
+    },
+    "167": {
+        "target": 5,
+        "input": "How many pigs are there in the image?",
+        "pred": 4
+    },
+    "168": {
+        "target": 3,
+        "input": "How many people are there in the image?",
+        "pred": 3
+    },
+    "169": {
+        "target": 7,
+        "input": "How many newspapers are there in the image?",
+        "pred": 7
+    },
+    "170": {
+        "target": 2,
+        "input": "How many leggings are there in the image?",
+        "pred": 2
+    },
+    "171": {
+        "target": 3,
+        "input": "How many medals are there in the image?",
+        "pred": 3
+    },
+    "172": {
+        "target": 10,
+        "input": "How many patterns are there in the image?",
+        "pred": 10
+    },
+    "173": {
+        "target": 6,
+        "input": "How many women are there in the image?",
+        "pred": 7
+    },
+    "174": {
+        "target": 3,
+        "input": "How many doors are there in the image?",
+        "pred": 3
+    },
+    "175": {
+        "target": 5,
+        "input": "How many pairs of socks are there in the image?",
+        "pred": 5
+    },
+    "176": {
+        "target": 7,
+        "input": "How many people are there in the image?",
+        "pred": 7
+    },
+    "177": {
+        "target": 3,
+        "input": "How many backgrounds are there in the image?",
+        "pred": 3
+    },
+    "178": {
+        "target": 7,
+        "input": "How many images of dogs are there in the image?",
+        "pred": 7
+    },
+    "179": {
+        "target": 3,
+        "input": "How many broadheads are there in the image?",
+        "pred": 3
+    },
+    "180": {
+        "target": 8,
+        "input": "How many figurines are there in the image?",
+        "pred": 12
+    },
+    "181": {
+        "target": 6,
+        "input": "How many candles are there in the image?",
+        "pred": 6
+    },
+    "182": {
+        "target": 5,
+        "input": "How many petals does each flower have in this image?",
+        "pred": 5
+    },
+    "183": {
+        "target": 2,
+        "input": "How many men are there in the image?",
+        "pred": 2
+    },
+    "184": {
+        "target": 3,
+        "input": "How many frames are there in the image?",
+        "pred": 3
+    },
+    "185": {
+        "target": 6,
+        "input": "How many animals are there in the image?",
+        "pred": 6
+    },
+    "186": {
+        "target": 5,
+        "input": "How many people are there in the image?",
+        "pred": 5
+    },
+    "187": {
+        "target": 6,
+        "input": "How many cats are there in the image?",
+        "pred": 7
+    },
+    "188": {
+        "target": 2,
+        "input": "How many sconces are there in the image?",
+        "pred": 2
+    },
+    "189": {
+        "target": 5,
+        "input": "How many spoons are there in the image?",
+        "pred": 5
+    },
+    "190": {
+        "target": 8,
+        "input": "How many people are there in the image?",
+        "pred": 8
+    },
+    "191": {
+        "target": 4,
+        "input": "How many people are there in the image?",
+        "pred": 4
+    },
+    "192": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 10
+    },
+    "193": {
+        "target": 7,
+        "input": "How many people are there in the image?",
+        "pred": 7
+    },
+    "194": {
+        "target": 5,
+        "input": "How many planes are there in the image?",
+        "pred": 5
+    },
+    "195": {
+        "target": 2,
+        "input": "How many cats are there in the image?",
+        "pred": 2
+    },
+    "196": {
+        "target": 4,
+        "input": "How many sketches are there in the image?",
+        "pred": 4
+    },
+    "197": {
+        "target": 6,
+        "input": "How many trees are there in the image?",
+        "pred": 6
+    },
+    "198": {
+        "target": 10,
+        "input": "How many dice are there in the image?",
+        "pred": 10
+    },
+    "199": {
+        "target": 8,
+        "input": "How many figurines are there in the image?",
+        "pred": 9
+    },
+    "200": {
+        "target": 4,
+        "input": "How many napkins are there in the image?",
+        "pred": 4
+    },
+    "201": {
+        "target": 3,
+        "input": "How many dogs are there in the image?",
+        "pred": 3
+    },
+    "202": {
+        "target": 2,
+        "input": "How many kids are there in the image?",
+        "pred": 2
+    },
+    "203": {
+        "target": 4,
+        "input": "How many hearts are there in the image?",
+        "pred": 4
+    },
+    "204": {
+        "target": 8,
+        "input": "How many apples are there in the image?",
+        "pred": 8
+    },
+    "205": {
+        "target": 7,
+        "input": "How many post-its are there in the image?",
+        "pred": 6
+    },
+    "206": {
+        "target": 10,
+        "input": "How many dice are there in the image?",
+        "pred": 10
+    },
+    "207": {
+        "target": 10,
+        "input": "How many books are there in the image?",
+        "pred": 12
+    },
+    "208": {
+        "target": 6,
+        "input": "How many women are there in the image?",
+        "pred": 6
+    },
+    "209": {
+        "target": 6,
+        "input": "How many sofas are there in the image?",
+        "pred": 6
+    },
+    "210": {
+        "target": 7,
+        "input": "How many dice are there in the image?",
+        "pred": 7
+    },
+    "211": {
+        "target": 4,
+        "input": "How many girls are there in the image?",
+        "pred": 4
+    },
+    "212": {
+        "target": 6,
+        "input": "How many sketches are there in the image?",
+        "pred": 6
+    },
+    "213": {
+        "target": 6,
+        "input": "How many men are there in the image?",
+        "pred": 6
+    },
+    "214": {
+        "target": 7,
+        "input": "How many moons are there in the image?",
+        "pred": 7
+    },
+    "215": {
+        "target": 6,
+        "input": "How many labels are there in the image?",
+        "pred": 7
+    },
+    "216": {
+        "target": 5,
+        "input": "How many cylinders are there in the image?",
+        "pred": 5
+    },
+    "217": {
+        "target": 9,
+        "input": "How many silhouettes of couples are there in the image?",
+        "pred": 10
+    },
+    "218": {
+        "target": 2,
+        "input": "How many people are there in the image?",
+        "pred": 2
+    },
+    "219": {
+        "target": 4,
+        "input": "How many dogs are there in the image?",
+        "pred": 4
+    },
+    "220": {
+        "target": 10,
+        "input": "How many people on stage are there in the image?",
+        "pred": 10
+    },
+    "221": {
+        "target": 4,
+        "input": "How many lambs are there in the image?",
+        "pred": 4
+    },
+    "222": {
+        "target": 3,
+        "input": "How many violins are there in the image?",
+        "pred": 3
+    },
+    "223": {
+        "target": 4,
+        "input": "How many armchairs are there in the image?",
+        "pred": 4
+    },
+    "224": {
+        "target": 10,
+        "input": "How many silhouettes are there in the image?",
+        "pred": 12
+    },
+    "225": {
+        "target": 6,
+        "input": "How many eggs are there in the image?",
+        "pred": 6
+    },
+    "226": {
+        "target": 9,
+        "input": "How many photos are there in the image?",
+        "pred": 12
+    },
+    "227": {
+        "target": 8,
+        "input": "How many chairs are there in the image?",
+        "pred": 8
+    },
+    "228": {
+        "target": 5,
+        "input": "How many figurines are there in the image?",
+        "pred": 6
+    },
+    "229": {
+        "target": 9,
+        "input": "How many moais are there in the image?",
+        "pred": 13
+    },
+    "230": {
+        "target": 9,
+        "input": "How many symbols are there in the image?",
+        "pred": 10
+    },
+    "231": {
+        "target": 3,
+        "input": "How many glasses are there in the image?",
+        "pred": 3
+    },
+    "232": {
+        "target": 2,
+        "input": "How many sinks are there in the image?",
+        "pred": 2
+    },
+    "233": {
+        "target": 5,
+        "input": "How many women are there in the image?",
+        "pred": 5
+    },
+    "234": {
+        "target": 7,
+        "input": "How many buildings are there in the image?",
+        "pred": 10
+    },
+    "235": {
+        "target": 8,
+        "input": "How many flyers are there in the image?",
+        "pred": 8
+    },
+    "236": {
+        "target": 10,
+        "input": "How many dice are there in the image?",
+        "pred": 10
+    },
+    "237": {
+        "target": 4,
+        "input": "How many pizza slices are there in the image?",
+        "pred": 8
+    },
+    "238": {
+        "target": 6,
+        "input": "How many stickers are there in the image?",
+        "pred": 6
+    },
+    "239": {
+        "target": 3,
+        "input": "How many gifts are there in the image?",
+        "pred": 4
+    },
+    "240": {
+        "target": 5,
+        "input": "How many bowls are there in the image?",
+        "pred": 5
+    },
+    "241": {
+        "target": 9,
+        "input": "How many people are there in the image?",
+        "pred": 10
+    },
+    "242": {
+        "target": 6,
+        "input": "How many posters are there in the image?",
+        "pred": 6
+    },
+    "243": {
+        "target": 10,
+        "input": "How many cards are there in the image?",
+        "pred": 10
+    },
+    "244": {
+        "target": 5,
+        "input": "How many portraits are there in the image?",
+        "pred": 5
+    },
+    "245": {
+        "target": 10,
+        "input": "How many poinsettias are there in the image?",
+        "pred": 13
+    },
+    "246": {
+        "target": 8,
+        "input": "How many glass windows are there in the image?",
+        "pred": 6
+    },
+    "247": {
+        "target": 3,
+        "input": "How many people are there in the image?",
+        "pred": 3
+    },
+    "248": {
+        "target": 8,
+        "input": "How many baskets are there in the image?",
+        "pred": 8
+    },
+    "249": {
+        "target": 7,
+        "input": "How many tulips are there in the image?",
+        "pred": 7
+    },
+    "250": {
+        "target": 5,
+        "input": "How many bottles are there in the image?",
+        "pred": 5
+    },
+    "251": {
+        "target": 3,
+        "input": "How many stuffed animals are there in the image?",
+        "pred": 3
+    },
+    "252": {
+        "target": 8,
+        "input": "How many keychains are there in the image?",
+        "pred": 10
+    },
+    "253": {
+        "target": 9,
+        "input": "How many photos are there in the image?",
+        "pred": 12
+    },
+    "254": {
+        "target": 10,
+        "input": "How many people are there in the image?",
+        "pred": 10
+    },
+    "255": {
+        "target": 2,
+        "input": "How many adults are there in the image?",
+        "pred": 3
+    },
+    "256": {
+        "target": 3,
+        "input": "How many tulips are there in the image?",
+        "pred": 3
+    },
+    "257": {
+        "target": 9,
+        "input": "How many frames are there in the image?",
+        "pred": 9
+    },
+    "258": {
+        "target": 5,
+        "input": "How many strawberries are there in the image?",
+        "pred": 5
+    },
+    "259": {
+        "target": 3,
+        "input": "How many cocktails are there in the image?",
+        "pred": 3
+    },
+    "260": {
+        "target": 6,
+        "input": "How many men are there in the image?",
+        "pred": 6
+    },
+    "261": {
+        "target": 2,
+        "input": "How many wineglasses are there in the image?",
+        "pred": 2
+    },
+    "262": {
+        "target": 2,
+        "input": "How many goblets are there in the image?",
+        "pred": 1
+    },
+    "263": {
+        "target": 3,
+        "input": "How many flowers are there in the image?",
+        "pred": 4
+    },
+    "264": {
+        "target": 2,
+        "input": "How many zebras are there in the image?",
+        "pred": 2
+    },
+    "265": {
+        "target": 7,
+        "input": "How many paint brushes are there in the image?",
+        "pred": 7
+    },
+    "266": {
+        "target": 9,
+        "input": "How many prints are there in the image?",
+        "pred": 9
+    },
+    "267": {
+        "target": 8,
+        "input": "How many glasses are there in the image?",
+        "pred": 8
+    },
+    "268": {
+        "target": 8,
+        "input": "How many sunglasses are there in the image?",
+        "pred": 9
+    },
+    "269": {
+        "target": 3,
+        "input": "How many banners are there in the image?",
+        "pred": 3
+    },
+    "270": {
+        "target": 7,
+        "input": "How many bottle caps are there in the image?",
+        "pred": 8
+    },
+    "271": {
+        "target": 4,
+        "input": "How many prints are there in the image?",
+        "pred": 4
+    },
+    "272": {
+        "target": 3,
+        "input": "How many eggs are there in the image?",
+        "pred": 3
+    },
+    "273": {
+        "target": 8,
+        "input": "How many people are there in the image?",
+        "pred": 9
+    },
+    "274": {
+        "target": 5,
+        "input": "How many books are there in the image?",
+        "pred": 5
+    },
+    "275": {
+        "target": 8,
+        "input": "How many animals are there in the image?",
+        "pred": 8
+    },
+    "276": {
+        "target": 9,
+        "input": "How many eyeshadows are there in the image?",
+        "pred": 9
+    },
+    "277": {
+        "target": 8,
+        "input": "How many keychains are there in the image?",
+        "pred": 10
+    },
+    "278": {
+        "target": 8,
+        "input": "How many canisters are there in the image?",
+        "pred": 7
+    },
+    "279": {
+        "target": 10,
+        "input": "How many bags are there in the image?",
+        "pred": 12
+    },
+    "280": {
+        "target": 2,
+        "input": "How many baking trays are there in the image?",
+        "pred": 2
+    },
+    "281": {
+        "target": 6,
+        "input": "How many diamonds are there in the image?",
+        "pred": 6
+    },
+    "282": {
+        "target": 7,
+        "input": "How many portraits are there in the image?",
+        "pred": 10
+    },
+    "283": {
+        "target": 8,
+        "input": "How many flags are there in the image?",
+        "pred": 8
+    },
+    "284": {
+        "target": 6,
+        "input": "How many framed pictures are there in the image?",
+        "pred": 7
+    },
+    "285": {
+        "target": 10,
+        "input": "How many eggs are there in the image?",
+        "pred": 6
+    },
+    "286": {
+        "target": 2,
+        "input": "How many croissants are there in the image?",
+        "pred": 2
+    },
+    "287": {
+        "target": 3,
+        "input": "How many Manikins are there in the image?",
+        "pred": 3
+    },
+    "288": {
+        "target": 9,
+        "input": "How many symbols are there in the image?",
+        "pred": 10
+    },
+    "289": {
+        "target": 7,
+        "input": "How many labels are there in the image?",
+        "pred": 7
+    },
+    "290": {
+        "target": 3,
+        "input": "How many people in the foreground are there in the image?",
+        "pred": 3
+    },
+    "291": {
+        "target": 4,
+        "input": "How many armchairs are there in the image?",
+        "pred": 4
+    },
+    "292": {
+        "target": 6,
+        "input": "How many cups are there in the image?",
+        "pred": 6
+    },
+    "293": {
+        "target": 5,
+        "input": "How many helicopters are there in the image?",
+        "pred": 5
+    },
+    "294": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "295": {
+        "target": 2,
+        "input": "How many children are there in the image?",
+        "pred": 2
+    },
+    "296": {
+        "target": 3,
+        "input": "How many people are there in the image?",
+        "pred": 3
+    },
+    "297": {
+        "target": 9,
+        "input": "How many buttons are there in the image?",
+        "pred": 10
+    },
+    "298": {
+        "target": 4,
+        "input": "How many people are there in the image?",
+        "pred": 4
+    },
+    "299": {
+        "target": 7,
+        "input": "How many Cookies are there in the image?",
+        "pred": 8
+    },
+    "300": {
+        "target": 7,
+        "input": "How many sculptures are there in the image?",
+        "pred": 8
+    },
+    "301": {
+        "target": 4,
+        "input": "How many school uniforms are there in the image?",
+        "pred": 4
+    },
+    "302": {
+        "target": 2,
+        "input": "How many sculptures are there in the image?",
+        "pred": 2
+    },
+    "303": {
+        "target": 6,
+        "input": "How many eggs are there in the image?",
+        "pred": 6
+    },
+    "304": {
+        "target": 4,
+        "input": "How many packages are there in the image?",
+        "pred": 4
+    },
+    "305": {
+        "target": 7,
+        "input": "How many bottles are there in the image?",
+        "pred": 7
+    },
+    "306": {
+        "target": 2,
+        "input": "How many stories does this cottage have?",
+        "pred": 2
+    },
+    "307": {
+        "target": 2,
+        "input": "How many gift cards are there in the image?",
+        "pred": 2
+    },
+    "308": {
+        "target": 5,
+        "input": "How many eggs are there in the image?",
+        "pred": 5
+    },
+    "309": {
+        "target": 10,
+        "input": "How many beers are there in the image?",
+        "pred": 10
+    },
+    "310": {
+        "target": 10,
+        "input": "How many children are there in the image?",
+        "pred": 11
+    },
+    "311": {
+        "target": 4,
+        "input": "How many planes are there in the image?",
+        "pred": 4
+    },
+    "312": {
+        "target": 4,
+        "input": "How many cactus pots are there in the image?",
+        "pred": 2
+    },
+    "313": {
+        "target": 9,
+        "input": "How many picture frames are there in the image?",
+        "pred": 9
+    },
+    "314": {
+        "target": 9,
+        "input": "How many elephants are there in the image?",
+        "pred": 9
+    },
+    "315": {
+        "target": 5,
+        "input": "How many guitars are there in the image?",
+        "pred": 5
+    },
+    "316": {
+        "target": 2,
+        "input": "How many samurai are there in the image?",
+        "pred": 2
+    },
+    "317": {
+        "target": 9,
+        "input": "How many ghosts are there in the image?",
+        "pred": 9
+    },
+    "318": {
+        "target": 7,
+        "input": "How many bottles are there in the image?",
+        "pred": 7
+    },
+    "319": {
+        "target": 9,
+        "input": "How many candles are there in the image?",
+        "pred": 12
+    },
+    "320": {
+        "target": 3,
+        "input": "How many vases are there in the image?",
+        "pred": 3
+    },
+    "321": {
+        "target": 10,
+        "input": "How many sets of headphones are there in the image?",
+        "pred": 10
+    },
+    "322": {
+        "target": 3,
+        "input": "How many pandas are there in the image?",
+        "pred": 3
+    },
+    "323": {
+        "target": 2,
+        "input": "How many books are there in the image?",
+        "pred": 3
+    },
+    "324": {
+        "target": 7,
+        "input": "How many stickers are there in the image?",
+        "pred": 7
+    },
+    "325": {
+        "target": 3,
+        "input": "How many rings are there in the image?",
+        "pred": 3
+    },
+    "326": {
+        "target": 7,
+        "input": "How many dice are there in the image?",
+        "pred": 7
+    },
+    "327": {
+        "target": 7,
+        "input": "How many dragon balls are there in the image?",
+        "pred": 8
+    },
+    "328": {
+        "target": 3,
+        "input": "How many tanks are there in the image?",
+        "pred": 3
+    },
+    "329": {
+        "target": 7,
+        "input": "How many cups are there in the image?",
+        "pred": 6
+    },
+    "330": {
+        "target": 10,
+        "input": "How many people are there in the image?",
+        "pred": 10
+    },
+    "331": {
+        "target": 7,
+        "input": "How many cushions are there in the image?",
+        "pred": 7
+    },
+    "332": {
+        "target": 10,
+        "input": "How many shoes are there in the image?",
+        "pred": 10
+    },
+    "333": {
+        "target": 4,
+        "input": "How many wine glasses are there in the image?",
+        "pred": 4
+    },
+    "334": {
+        "target": 4,
+        "input": "How many cards are there in the image?",
+        "pred": 4
+    },
+    "335": {
+        "target": 10,
+        "input": "How many boots are there in the image?",
+        "pred": 2
+    },
+    "336": {
+        "target": 9,
+        "input": "How many stickers are there in the image?",
+        "pred": 1
+    },
+    "337": {
+        "target": 7,
+        "input": "How many dice are there in the image?",
+        "pred": 7
+    },
+    "338": {
+        "target": 10,
+        "input": "How many butterflies are there in the image?",
+        "pred": 11
+    },
+    "339": {
+        "target": 10,
+        "input": "How many butterflies are there in the image?",
+        "pred": 12
+    },
+    "340": {
+        "target": 8,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    },
+    "341": {
+        "target": 7,
+        "input": "How many hexagons are there in the image?",
+        "pred": 7
+    },
+    "342": {
+        "target": 8,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    },
+    "343": {
+        "target": 8,
+        "input": "How many football players are there in the image?",
+        "pred": 7
+    },
+    "344": {
+        "target": 6,
+        "input": "How many gifts are there in the image?",
+        "pred": 6
+    },
+    "345": {
+        "target": 8,
+        "input": "How many light bulbs are there in the image?",
+        "pred": 9
+    },
+    "346": {
+        "target": 10,
+        "input": "How many people are there in the image?",
+        "pred": 10
+    },
+    "347": {
+        "target": 8,
+        "input": "How many chairs are there in the image?",
+        "pred": 11
+    },
+    "348": {
+        "target": 5,
+        "input": "How many people are there in the image?",
+        "pred": 5
+    },
+    "349": {
+        "target": 7,
+        "input": "How many candles are there in the image?",
+        "pred": 7
+    },
+    "350": {
+        "target": 3,
+        "input": "How many people are there in the image?",
+        "pred": 3
+    },
+    "351": {
+        "target": 4,
+        "input": "How many silhouettes are there in the image?",
+        "pred": 4
+    },
+    "352": {
+        "target": 4,
+        "input": "How many pots are there in the image?",
+        "pred": 4
+    },
+    "353": {
+        "target": 9,
+        "input": "How many pumpkins are there in the image?",
+        "pred": 9
+    },
+    "354": {
+        "target": 9,
+        "input": "How many owls are there in the image?",
+        "pred": 9
+    },
+    "355": {
+        "target": 6,
+        "input": "How many doctors are there in the image?",
+        "pred": 6
+    },
+    "356": {
+        "target": 9,
+        "input": "How many pillars are there in the image?",
+        "pred": 8
+    },
+    "357": {
+        "target": 9,
+        "input": "How many symbols are there in the image?",
+        "pred": 10
+    },
+    "358": {
+        "target": 9,
+        "input": "How many pumpkins are there in the image?",
+        "pred": 9
+    },
+    "359": {
+        "target": 10,
+        "input": "How many people are there in the image?",
+        "pred": 12
+    },
+    "360": {
+        "target": 10,
+        "input": "How many eggs are there in the image?",
+        "pred": 12
+    },
+    "361": {
+        "target": 8,
+        "input": "How many roses are there in the image?",
+        "pred": 8
+    },
+    "362": {
+        "target": 8,
+        "input": "How many people are there in the image?",
+        "pred": 9
+    },
+    "363": {
+        "target": 3,
+        "input": "How many bottles are there in the image?",
+        "pred": 3
+    },
+    "364": {
+        "target": 3,
+        "input": "How many illustrations are there in the image?",
+        "pred": 3
+    },
+    "365": {
+        "target": 8,
+        "input": "How many butterflies are there in the image?",
+        "pred": 8
+    },
+    "366": {
+        "target": 6,
+        "input": "How many spoons are there in the image?",
+        "pred": 6
+    },
+    "367": {
+        "target": 3,
+        "input": "How many potato spreads are there in the image?",
+        "pred": 3
+    },
+    "368": {
+        "target": 4,
+        "input": "How many women are there in the image?",
+        "pred": 4
+    },
+    "369": {
+        "target": 2,
+        "input": "How many people are there in the image?",
+        "pred": 2
+    },
+    "370": {
+        "target": 6,
+        "input": "How many wall arts are there in the image?",
+        "pred": 1
+    },
+    "371": {
+        "target": 2,
+        "input": "How many soldiers are there in the image?",
+        "pred": 2
+    },
+    "372": {
+        "target": 10,
+        "input": "How many posters are there in the image?",
+        "pred": 9
+    },
+    "373": {
+        "target": 8,
+        "input": "How many chairs are there in the image?",
+        "pred": 12
+    },
+    "374": {
+        "target": 4,
+        "input": "How many patterns are there in the image?",
+        "pred": 4
+    },
+    "375": {
+        "target": 2,
+        "input": "How many dogs are there in the image?",
+        "pred": 2
+    },
+    "376": {
+        "target": 2,
+        "input": "How many pennies are there in the image?",
+        "pred": 2
+    },
+    "377": {
+        "target": 8,
+        "input": "How many windows are there in the image?",
+        "pred": 8
+    },
+    "378": {
+        "target": 8,
+        "input": "How many eggs are there in the image?",
+        "pred": 8
+    },
+    "379": {
+        "target": 3,
+        "input": "How many tickets are there in the image?",
+        "pred": 3
+    },
+    "380": {
+        "target": 8,
+        "input": "How many figurines are there in the image?",
+        "pred": 12
+    },
+    "381": {
+        "target": 4,
+        "input": "How many cases are there in the image?",
+        "pred": 1
+    },
+    "382": {
+        "target": 7,
+        "input": "How many people are in the foreground of this image?",
+        "pred": 7
+    },
+    "383": {
+        "target": 2,
+        "input": "How many glasses are there in the image?",
+        "pred": 2
+    },
+    "384": {
+        "target": 8,
+        "input": "How many people are there in the image?",
+        "pred": 9
+    },
+    "385": {
+        "target": 2,
+        "input": "How many cups are there in the image?",
+        "pred": 2
+    },
+    "386": {
+        "target": 10,
+        "input": "How many dice are there in the image?",
+        "pred": 10
+    },
+    "387": {
+        "target": 2,
+        "input": "How many kittens are there in the image?",
+        "pred": 2
+    },
+    "388": {
+        "target": 8,
+        "input": "How many scones are there in the image?",
+        "pred": 8
+    },
+    "389": {
+        "target": 8,
+        "input": "How many schoolgirls are there in the image?",
+        "pred": 8
+    },
+    "390": {
+        "target": 9,
+        "input": "How many padlocks are there in the image?",
+        "pred": 9
+    },
+    "391": {
+        "target": 7,
+        "input": "How many people are there in the image?",
+        "pred": 7
+    },
+    "392": {
+        "target": 2,
+        "input": "How many windows are there in the image?",
+        "pred": 2
+    },
+    "393": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 10
+    },
+    "394": {
+        "target": 4,
+        "input": "How many banners are there in the image?",
+        "pred": 4
+    },
+    "395": {
+        "target": 9,
+        "input": "How many dogs are there in the image?",
+        "pred": 9
+    },
+    "396": {
+        "target": 7,
+        "input": "How many groomsmen are there in the image?",
+        "pred": 7
+    },
+    "397": {
+        "target": 2,
+        "input": "How many children are there in the image?",
+        "pred": 2
+    },
+    "398": {
+        "target": 3,
+        "input": "How many glasses are there in the image?",
+        "pred": 3
+    },
+    "399": {
+        "target": 8,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "400": {
+        "target": 10,
+        "input": "How many coins are there in the image?",
+        "pred": 10
+    },
+    "401": {
+        "target": 6,
+        "input": "How many trees are there in the image?",
+        "pred": 6
+    },
+    "402": {
+        "target": 8,
+        "input": "How many people are there in the image?",
+        "pred": 8
+    },
+    "403": {
+        "target": 9,
+        "input": "How many frames are there in the image?",
+        "pred": 9
+    },
+    "404": {
+        "target": 10,
+        "input": "How many firescreens are there in the image?",
+        "pred": 12
+    },
+    "405": {
+        "target": 7,
+        "input": "How many bowls are there in the image?",
+        "pred": 7
+    },
+    "406": {
+        "target": 5,
+        "input": "How many stickers are there in the image?",
+        "pred": 5
+    },
+    "407": {
+        "target": 7,
+        "input": "How many archaic mirrors are there in the image?",
+        "pred": 7
+    },
+    "408": {
+        "target": 3,
+        "input": "How many dogs are there in the image?",
+        "pred": 3
+    },
+    "409": {
+        "target": 7,
+        "input": "How many candles are there in the image?",
+        "pred": 7
+    },
+    "410": {
+        "target": 7,
+        "input": "How many paint brushes are there in the image?",
+        "pred": 10
+    },
+    "411": {
+        "target": 6,
+        "input": "How many forks are there in the image?",
+        "pred": 6
+    },
+    "412": {
+        "target": 3,
+        "input": "How many figurines are there in the image?",
+        "pred": 3
+    },
+    "413": {
+        "target": 9,
+        "input": "How many owls are there in the image?",
+        "pred": 9
+    },
+    "414": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "415": {
+        "target": 6,
+        "input": "How many silhouettes are there in the image?",
+        "pred": 6
+    },
+    "416": {
+        "target": 6,
+        "input": "How many fried eggs are there in the image?",
+        "pred": 6
+    },
+    "417": {
+        "target": 7,
+        "input": "How many guitars are there in the image?",
+        "pred": 7
+    },
+    "418": {
+        "target": 7,
+        "input": "How many signs are there in the image?",
+        "pred": 7
+    },
+    "419": {
+        "target": 9,
+        "input": "How many women are there in the image?",
+        "pred": 1
+    },
+    "420": {
+        "target": 7,
+        "input": "How many children are there in the image?",
+        "pred": 4
+    },
+    "421": {
+        "target": 8,
+        "input": "How many kittens are there in the image?",
+        "pred": 8
+    },
+    "422": {
+        "target": 2,
+        "input": "How many kids are there in the image?",
+        "pred": 2
+    },
+    "423": {
+        "target": 6,
+        "input": "How many kittens are there in the image?",
+        "pred": 6
+    },
+    "424": {
+        "target": 8,
+        "input": "How many toys are there in the image?",
+        "pred": 8
+    },
+    "425": {
+        "target": 5,
+        "input": "How many pairs of socks are there in the image?",
+        "pred": 3
+    },
+    "426": {
+        "target": 3,
+        "input": "How many pairs of socks are there in the image?",
+        "pred": 3
+    },
+    "427": {
+        "target": 3,
+        "input": "How many men are there in the image?",
+        "pred": 3
+    },
+    "428": {
+        "target": 5,
+        "input": "How many stars are there in the image?",
+        "pred": 5
+    },
+    "429": {
+        "target": 4,
+        "input": "How many chairs are there in the image?",
+        "pred": 4
+    },
+    "430": {
+        "target": 10,
+        "input": "How many diamonds are there in the image?",
+        "pred": 10
+    },
+    "431": {
+        "target": 7,
+        "input": "How many moais are there in the image?",
+        "pred": 7
+    },
+    "432": {
+        "target": 2,
+        "input": "How many banners are there in the image?",
+        "pred": 2
+    },
+    "433": {
+        "target": 10,
+        "input": "How many silhouettes are there in the image?",
+        "pred": 12
+    },
+    "434": {
+        "target": 10,
+        "input": "How many coins are there in the image?",
+        "pred": 9
+    },
+    "435": {
+        "target": 5,
+        "input": "How many people are there in the image?",
+        "pred": 5
+    },
+    "436": {
+        "target": 3,
+        "input": "How many banners are there in the image?",
+        "pred": 3
+    },
+    "437": {
+        "target": 4,
+        "input": "How many people are there in the image?",
+        "pred": 4
+    },
+    "438": {
+        "target": 5,
+        "input": "How many flags are there in the image?",
+        "pred": 5
+    },
+    "439": {
+        "target": 9,
+        "input": "How many frames are there in the image?",
+        "pred": 9
+    },
+    "440": {
+        "target": 4,
+        "input": "How many contestants are there in the image?",
+        "pred": 4
+    },
+    "441": {
+        "target": 6,
+        "input": "How many people are there in the image?",
+        "pred": 6
+    },
+    "442": {
+        "target": 6,
+        "input": "How many globes are there in the image?",
+        "pred": 6
+    },
+    "443": {
+        "target": 8,
+        "input": "How many animals are there in the image?",
+        "pred": 8
+    },
+    "444": {
+        "target": 9,
+        "input": "How many buttons are there in the image?",
+        "pred": 9
+    },
+    "445": {
+        "target": 8,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "446": {
+        "target": 9,
+        "input": "How many piles of candy are there in the image?",
+        "pred": 9
+    },
+    "447": {
+        "target": 4,
+        "input": "How many pictures are there in the image?",
+        "pred": 4
+    },
+    "448": {
+        "target": 6,
+        "input": "How many plates are there in the image?",
+        "pred": 6
+    },
+    "449": {
+        "target": 4,
+        "input": "How many calendars are there in the image?",
+        "pred": 4
+    },
+    "450": {
+        "target": 9,
+        "input": "How many oranges are there in the image?",
+        "pred": 8
+    },
+    "451": {
+        "target": 7,
+        "input": "How many puppies are there in the image?",
+        "pred": 7
+    },
+    "452": {
+        "target": 2,
+        "input": "How many buffalos are there in the image?",
+        "pred": 2
+    },
+    "453": {
+        "target": 6,
+        "input": "How many bottles are there in the image?",
+        "pred": 6
+    },
+    "454": {
+        "target": 3,
+        "input": "How many people are there in the image?",
+        "pred": 3
+    },
+    "455": {
+        "target": 8,
+        "input": "How many icons are there in the image?",
+        "pred": 8
+    },
+    "456": {
+        "target": 5,
+        "input": "How many christmas balls are there in the image?",
+        "pred": 5
+    },
+    "457": {
+        "target": 3,
+        "input": "How many people are there in the image?",
+        "pred": 3
+    },
+    "458": {
+        "target": 4,
+        "input": "How many frames are there in the image?",
+        "pred": 4
+    },
+    "459": {
+        "target": 6,
+        "input": "How many people are there in the image?",
+        "pred": 6
+    },
+    "460": {
+        "target": 2,
+        "input": "How many soldiers are there in the image?",
+        "pred": 2
+    },
+    "461": {
+        "target": 2,
+        "input": "How many chairs are there in the image?",
+        "pred": 3
+    },
+    "462": {
+        "target": 8,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    },
+    "463": {
+        "target": 5,
+        "input": "How many cards are there in the image?",
+        "pred": 5
+    },
+    "464": {
+        "target": 10,
+        "input": "How many colored tiles are there in the image?",
+        "pred": 10
+    },
+    "465": {
+        "target": 3,
+        "input": "How many trapezoids are there in the image?",
+        "pred": 3
+    },
+    "466": {
+        "target": 10,
+        "input": "How many plants are there in the image?",
+        "pred": 10
+    },
+    "467": {
+        "target": 6,
+        "input": "How many place mats are there in the image?",
+        "pred": 6
+    },
+    "468": {
+        "target": 9,
+        "input": "How many symbols are there in the image?",
+        "pred": 10
+    },
+    "469": {
+        "target": 10,
+        "input": "How many mazes are there in the image?",
+        "pred": 10
+    },
+    "470": {
+        "target": 8,
+        "input": "How many tea bags are there in the image?",
+        "pred": 12
+    },
+    "471": {
+        "target": 4,
+        "input": "How many photos are there in the image?",
+        "pred": 4
+    },
+    "472": {
+        "target": 2,
+        "input": "How many children are there in the image?",
+        "pred": 2
+    },
+    "473": {
+        "target": 8,
+        "input": "How many starfish are there in the image?",
+        "pred": 9
+    },
+    "474": {
+        "target": 6,
+        "input": "How many mugs are there in the image?",
+        "pred": 6
+    },
+    "475": {
+        "target": 5,
+        "input": "How many bottles are there in the image?",
+        "pred": 5
+    },
+    "476": {
+        "target": 10,
+        "input": "How many eggs are there in the image?",
+        "pred": 12
+    },
+    "477": {
+        "target": 9,
+        "input": "How many icons are there in the image?",
+        "pred": 9
+    },
+    "478": {
+        "target": 3,
+        "input": "How many balls are there in the image?",
+        "pred": 3
+    },
+    "479": {
+        "target": 7,
+        "input": "How many paper bags are there in the image?",
+        "pred": 8
+    },
+    "480": {
+        "target": 8,
+        "input": "How many silhouettes are there in the image?",
+        "pred": 9
+    },
+    "481": {
+        "target": 10,
+        "input": "How many couples are there in the image?",
+        "pred": 10
+    },
+    "482": {
+        "target": 6,
+        "input": "How many dice are there in the image?",
+        "pred": 6
+    },
+    "483": {
+        "target": 2,
+        "input": "How many women are there in the image?",
+        "pred": 2
+    },
+    "484": {
+        "target": 6,
+        "input": "How many icons are there in the image?",
+        "pred": 7
+    },
+    "485": {
+        "target": 9,
+        "input": "How many wooden spoons are there in the image?",
+        "pred": 9
+    },
+    "486": {
+        "target": 7,
+        "input": "How many people are there in the image?",
+        "pred": 7
+    },
+    "487": {
+        "target": 6,
+        "input": "How many chairs are there in the image?",
+        "pred": 6
+    },
+    "488": {
+        "target": 8,
+        "input": "How many chairs are there in the image?",
+        "pred": 8
+    },
+    "489": {
+        "target": 2,
+        "input": "How many beds are there in the image?",
+        "pred": 2
+    },
+    "490": {
+        "target": 10,
+        "input": "How many chairs are there in the image?",
+        "pred": 10
+    }
+}

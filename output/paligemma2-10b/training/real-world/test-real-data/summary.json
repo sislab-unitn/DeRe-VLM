@@ -1,0 +1,297 @@
+{
+    "eggs": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "helicopters": {
+        "f1_score": 1.0,
+        "# samples": 3,
+        "# classes": 2
+    },
+    "cats": {
+        "f1_score": 1.0,
+        "# samples": 4,
+        "# classes": 3
+    },
+    "swans": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "horses": {
+        "f1_score": 1.0,
+        "# samples": 6,
+        "# classes": 5
+    },
+    "wine glass": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "golf balls": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "motorcycles": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "plates": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "guitars": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "zebras": {
+        "f1_score": 1.0,
+        "# samples": 2,
+        "# classes": 2
+    },
+    "cakes": {
+        "f1_score": 1.0,
+        "# samples": 3,
+        "# classes": 2
+    },
+    "scallops": {
+        "f1_score": 1.0,
+        "# samples": 2,
+        "# classes": 2
+    },
+    "elephants": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "baskets": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "spoons": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "geese": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "butterflys": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "vases": {
+        "f1_score": 1.0,
+        "# samples": 4,
+        "# classes": 3
+    },
+    "hot air balloons": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "bowl/basins": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "trucks": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "toilets": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "breads": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "benches": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "knives": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "canneds": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "rabbits": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "strawberrys": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "pots": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "dogs": {
+        "f1_score": 0.9365079365079366,
+        "# samples": 15,
+        "# classes": 7
+    },
+    "flags": {
+        "f1_score": 0.8333333333333333,
+        "# samples": 11,
+        "# classes": 5
+    },
+    "sheep": {
+        "f1_score": 0.8222222222222223,
+        "# samples": 5,
+        "# classes": 3
+    },
+    "airplanes": {
+        "f1_score": 0.7225627926777352,
+        "# samples": 61,
+        "# classes": 8
+    },
+    "people": {
+        "f1_score": 0.6809606138829882,
+        "# samples": 245,
+        "# classes": 8
+    },
+    "chairs": {
+        "f1_score": 0.6222222222222221,
+        "# samples": 9,
+        "# classes": 6
+    },
+    "books": {
+        "f1_score": 0.6190476190476191,
+        "# samples": 10,
+        "# classes": 5
+    },
+    "boots": {
+        "f1_score": 0.6,
+        "# samples": 6,
+        "# classes": 3
+    },
+    "bottles": {
+        "f1_score": 0.5904761904761904,
+        "# samples": 10,
+        "# classes": 6
+    },
+    "ducks": {
+        "f1_score": 0.5238095238095238,
+        "# samples": 6,
+        "# classes": 6
+    },
+    "candles": {
+        "f1_score": 0.41666666666666663,
+        "# samples": 4,
+        "# classes": 3
+    },
+    "wild birds": {
+        "f1_score": 0.38809523809523805,
+        "# samples": 12,
+        "# classes": 5
+    },
+    "cows": {
+        "f1_score": 0.3333333333333333,
+        "# samples": 2,
+        "# classes": 2
+    },
+    "goldfish": {
+        "f1_score": 0.3333333333333333,
+        "# samples": 2,
+        "# classes": 2
+    },
+    "clocks": {
+        "f1_score": 0.3333333333333333,
+        "# samples": 2,
+        "# classes": 1
+    },
+    "tomatoes": {
+        "f1_score": 0.16666666666666666,
+        "# samples": 3,
+        "# classes": 2
+    },
+    "ballons": {
+        "f1_score": 0.1111111111111111,
+        "# samples": 5,
+        "# classes": 3
+    },
+    "cups": {
+        "f1_score": 0.1,
+        "# samples": 4,
+        "# classes": 2
+    },
+    "boats": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "sausages": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "meatballs": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "traffic cones": {
+        "f1_score": 0.0,
+        "# samples": 2,
+        "# classes": 1
+    },
+    "umbrellas": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "donuts": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "monkeys": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "masks": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "bracelets": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "barrel/buckets": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "awnings": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    }
+}

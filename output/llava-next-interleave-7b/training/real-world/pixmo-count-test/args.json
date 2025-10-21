@@ -1,0 +1,14 @@
+{
+    "model_name": "llava-next-interleave-7b",
+    "batch_size": 1,
+    "device": "cuda",
+    "out_dir": "output/llava-next-interleave-7b/pixmo-count-test",
+    "parallel": false,
+    "seed": 42,
+    "command": "extract-train-repr",
+    "data_folder": "data/pixmo-count/test",
+    "experiment_name": "pixmo-count-test",
+    "debug": false,
+    "instruction": "Answer using as few words as possible",
+    "dataset_type": "pixmo-count"
+}

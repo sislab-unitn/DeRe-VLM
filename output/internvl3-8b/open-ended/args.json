@@ -1,0 +1,17 @@
+{
+    "model_name": "internvl3-8b",
+    "batch_size": 2,
+    "device": "cuda:0",
+    "out_dir": "output/internvl3-8b/open-ended_all",
+    "parallel": false,
+    "seed": 42,
+    "command": "evaluate",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/counting_balanced_672_large_all",
+    "experiment_name": "open-ended_all",
+    "debug": false,
+    "save_every": 1000,
+    "instruction": "Answer using as few words as possible",
+    "max_new_tokens": 5,
+    "open_ended_questions": true,
+    "override": false
+}

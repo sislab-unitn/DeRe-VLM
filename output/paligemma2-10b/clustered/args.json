@@ -1,0 +1,17 @@
+{
+    "model_name": "paligemma2-10b",
+    "batch_size": 1,
+    "device": "cuda:1",
+    "out_dir": "output/paligemma2-10b/counting_clustered_672_large_all",
+    "parallel": false,
+    "seed": 42,
+    "command": "evaluate",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/counting_clustered_672_large_all",
+    "experiment_name": "counting_clustered_672_large_all",
+    "debug": false,
+    "save_every": 1000,
+    "instruction": "Answer using as few words as possible",
+    "max_new_tokens": 5,
+    "open_ended_questions": false,
+    "override": false
+}

@@ -1,0 +1,237 @@
+<!-- omit from toc -->
+# [De|Re]constructing VLMs' Reasoning in Counting
+
+Official repository for the paper *"[De|Re]constructing VLMs' Reasoning in Counting"*
+
+- [Installation](#installation)
+- [Available Models](#available-models)
+- [Data](#data)
+- [Evaluation](#evaluation)
+  - [Real-World data](#real-world-data)
+  - [Synthetic Data](#synthetic-data)
+    - [Baseline](#baseline)
+    - [Distractors](#distractors)
+    - [Clustered vs. Scattered](#clustered-vs-scattered)
+  - [Visualize the results](#visualize-the-results)
+- [Layer-Wise Analysis](#layer-wise-analysis)
+  - [Visualize the results](#visualize-the-results-1)
+- [Targeted Fine-Tuning](#targeted-fine-tuning)
+  - [Synthetic Data](#synthetic-data-1)
+  - [Real-World Data](#real-world-data-1)
+  - [Visualize the results](#visualize-the-results-2)
+- [License](#license)
+- [How to Cite](#how-to-cite)
+
+---
+
+## Installation
+
+This repository requires **Python 3.11.11**.  
+You can create the environment and install dependencies using either **pip** or **Conda**.
+
+<!-- omit from toc -->
+### pip
+
+1. Create a Python 3.11.11 environment:
+   ```bash
+   conda create -n counting python=3.11.11
+   ```
+
+2. Activate the environment and install the required packages:
+   ```bash
+   conda activate counting
+   pip install -r requirements.txt
+   ```
+
+<!-- omit from toc -->
+### Conda
+
+Alternatively, create the environment directly from the provided YAML file:
+```bash
+conda env create -f environment.yml -n counting
+```
+
+---
+
+## Available Models
+
+The following models can be specified using the `MODEL_NAME` argument in the commands below:
+
+- CLIP  
+- CoCa  
+- qwen2-vl-7b  
+- llava-next-interleave-7b  
+- paligemma2-10b  
+- llava-onevision-7b  
+- internvl3-8b
+
+---
+
+## Data
+
+Most datasets used in our experiments are located in the [`data`](./data) folder.  
+Before running experiments, unpack the required archives:
+
+```bash
+tar -xzvf ARCHIVE_NAME.tar.gz
+```
+
+<!-- omit from toc -->
+### Balanced Pixmo-Count (BPC)
+
+For reproducibility, the version of [BPC](./data/pixmo-count-image-free.tar.gz) used in our paper (images removed for compliance) is included in the [`data`](./data) folder.
+
+To create your own balanced version from the original [Pixmo-Count](https://huggingface.co/datasets/allenai/pixmo-count), refer to the notebook [analysis/pixmo.ipynb](./analysis/pixmo.ipynb).
+
+---
+
+## Evaluation
+
+All examples in this section use [Paligemma 2 10B 448px](https://huggingface.co/google/paligemma2-10b-mix-448).  
+You can substitute any other model listed in [Available Models](#available-models).
+
+### Real-World data
+
+To evaluate on **CountBenchQA**, run:
+```bash
+python -m main --out-dir your_results paligemma2-10b baseline
+```
+
+To evaluate on **Pixmo-Count**, run:
+```bash
+python -m main paligemma2-10b --out-dir your_results baseline --test-on pixmo-count
+```
+
+---
+
+### Synthetic Data
+ 
+Make sure to extract the `.tar.gz` archives before running any experiments.
+
+Run the following command to evaluate a model:
+```bash
+python -m main paligemma2-10b --out-dir your_results evaluate data/UNPACKED_ARCHIVE EXP_NAME
+```
+
+Where:
+- `UNPACKED_ARCHIVE` → name of the extracted dataset folder  
+- `EXP_NAME` → name assigned to the experiment (results will be saved to `your_results/EXP_NAME`)
+
+#### Baseline
+Unpack the `balanced.tar.gz` archive.
+
+#### Distractors
+Unpack all archives starting with `distractors` using:
+```bash
+find . -name "distractors*.tar.gz" | xargs -I {} tar -xzvf {}
+```
+
+Archive naming convention:
+- `N` → number of distractors (1, 5, or 9)
+- `TYPE` → type of distractor, formatted as `SIZE_COLOR_SHAPE` (e.g., `small_red_circle`)
+
+#### Clustered vs. Scattered
+Unpack both `clustered.tar.gz` and `scattered.tar.gz`.
+
+---
+
+### Visualize the results
+
+You can explore results and compute additional statistics using the notebook [analysis/error_analysis.ipynb](./analysis/error_analysis.ipynb).
+
+---
+
+## Layer-Wise Analysis
+
+To reproduce the layer-wise analysis from scratch, extract the model representations for each layer:
+```bash
+python -m main paligemma2-10b --out-dir your-results extract-layer-repr data/balanced per-layer-analysis
+```
+
+> [!TIP]
+> You can run this command on any dataset (e.g., `clustered`, `distractors_1_small_red_stars`, etc.).
+
+This will generate a `predictions.pkl` file under `your-results/paligemma2-10b/per-layer-analysis`.
+
+Compute the results using a linear SVM:
+```bash
+python utils/per_layer_analysis.py your-results/paligemma2-10b/per-layer-analysis
+```
+
+> [!TIP]
+> The script runs in parallel. Adjust the number of processes using `--n-processes`.
+
+---
+
+### Visualize the results
+
+Visualize the final layer-wise results using the notebook [analysis/layer_analysis.ipynb](./analysis/layer_analysis.ipynb).
+
+---
+
+## Targeted Fine-Tuning
+
+Our approach fine-tunes only the **output layer** of the models.
+
+### Synthetic Data
+
+To train on synthetic data, first unpack:
+- [`unseen_combinations.tar.gz`](./data/unseen_combinations.tar.gz)
+- [`balanced.tar.gz`](./data/balanced.tar.gz)
+
+Then extract the last-layer representations:
+```bash
+MODEL=paligemma2-10b
+python -m main $MODEL --out-dir your-results extract-train-repr data/unseen_combinations synth_train_data
+
+cp data/unseen_combinations/*ids.json your-results/$MODEL/synth_train_data
+
+python -m main $MODEL --out-dir your-results extract-train-repr data/balanced synth_test_data
+```
+
+> [!CAUTION]
+> Ensure that `train_ids.json` and `valid_ids.json` are successfully copied into `your-results/$MODEL/synth_train_data` before starting training.
+
+Next, fine-tune and evaluate:
+```bash
+MODEL=paligemma2-10b
+python -m train_out_layer_synth --out-dir your-results $MODEL your-results/$MODEL/synth_train_data your-results/$MODEL/synth_test_data test-synth-data --batch-size 32
+```
+
+---
+
+### Real-World Data
+
+To train on real-world data, first download the images for the [BPC dataset](#balanced-pixmo-count-bpc).
+
+Then extract the train, validation, and test representations:
+```bash
+MODEL=paligemma2-10b
+python -m main $MODEL --out-dir your-results extract-train-repr --dataset-type pixmo-count data/pixmo-count/train real_train_data
+python -m main $MODEL --out-dir your-results extract-valid-repr --dataset-type pixmo-count data/pixmo-count/valid real_valid_data
+python -m main $MODEL --out-dir your-results extract-test-repr --dataset-type pixmo-count data/pixmo-count/test real_test_data
+```
+
+Finally, train the output layer:
+```bash
+MODEL=paligemma2-10b
+python -m train_out_layer_real --out-dir your-results $MODEL your-results/$MODEL/real_train_data your-results/$MODEL/real_valid_data your-results/$MODEL/real_test_data test-real-data --batch-size 32
+```
+
+---
+
+### Visualize the results
+
+You can inspect and analyze results using the notebook [analysis/error_analysis.ipynb](./analysis/error_analysis.ipynb).
+
+---
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This work is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## How to Cite
+```
+```

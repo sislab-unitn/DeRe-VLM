@@ -1,0 +1,13 @@
+{
+    "model_name": "internvl3-8b",
+    "batch_size": 4,
+    "device": "cuda",
+    "out_dir": "output/internvl3-8b/per-layer-analysis",
+    "parallel": false,
+    "seed": 42,
+    "command": "extract-layer-repr",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/counting_balanced_672_large_all",
+    "experiment_name": "per-layer-analysis",
+    "debug": false,
+    "instruction": "Answer using as few words as possible"
+}

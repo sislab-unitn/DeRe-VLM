@@ -1,0 +1,11 @@
+{
+    "model_name": "CLIP",
+    "device": "cuda",
+    "out_dir": "output/CLIP/baseline",
+    "parallel": false,
+    "seed": 42,
+    "command": "baseline",
+    "instruction": "",
+    "max_new_tokens": 15,
+    "experiment_name": "baseline"
+}

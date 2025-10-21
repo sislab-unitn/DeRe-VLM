@@ -1,0 +1,297 @@
+{
+    "eggs": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "helicopters": {
+        "f1_score": 1.0,
+        "# samples": 3,
+        "# classes": 2
+    },
+    "cats": {
+        "f1_score": 1.0,
+        "# samples": 4,
+        "# classes": 3
+    },
+    "swans": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "wine glass": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "golf balls": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "motorcycles": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "plates": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "guitars": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "goldfish": {
+        "f1_score": 1.0,
+        "# samples": 2,
+        "# classes": 2
+    },
+    "meatballs": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "scallops": {
+        "f1_score": 1.0,
+        "# samples": 2,
+        "# classes": 2
+    },
+    "elephants": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "baskets": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "spoons": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "geese": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "butterflys": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "vases": {
+        "f1_score": 1.0,
+        "# samples": 4,
+        "# classes": 3
+    },
+    "hot air balloons": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "bowl/basins": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "bracelets": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "trucks": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "toilets": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "canneds": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "rabbits": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "strawberrys": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "pots": {
+        "f1_score": 1.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "dogs": {
+        "f1_score": 0.8357142857142856,
+        "# samples": 15,
+        "# classes": 7
+    },
+    "horses": {
+        "f1_score": 0.7333333333333333,
+        "# samples": 6,
+        "# classes": 5
+    },
+    "airplanes": {
+        "f1_score": 0.5967320261437907,
+        "# samples": 61,
+        "# classes": 8
+    },
+    "ducks": {
+        "f1_score": 0.5714285714285714,
+        "# samples": 6,
+        "# classes": 6
+    },
+    "people": {
+        "f1_score": 0.5263590661866299,
+        "# samples": 245,
+        "# classes": 8
+    },
+    "flags": {
+        "f1_score": 0.5238095238095238,
+        "# samples": 11,
+        "# classes": 5
+    },
+    "boots": {
+        "f1_score": 0.5,
+        "# samples": 6,
+        "# classes": 3
+    },
+    "candles": {
+        "f1_score": 0.5,
+        "# samples": 4,
+        "# classes": 3
+    },
+    "sheep": {
+        "f1_score": 0.48888888888888893,
+        "# samples": 5,
+        "# classes": 3
+    },
+    "books": {
+        "f1_score": 0.48412698412698413,
+        "# samples": 10,
+        "# classes": 5
+    },
+    "ballons": {
+        "f1_score": 0.4,
+        "# samples": 5,
+        "# classes": 3
+    },
+    "wild birds": {
+        "f1_score": 0.34814814814814815,
+        "# samples": 12,
+        "# classes": 5
+    },
+    "bottles": {
+        "f1_score": 0.34285714285714286,
+        "# samples": 10,
+        "# classes": 6
+    },
+    "chairs": {
+        "f1_score": 0.3333333333333333,
+        "# samples": 9,
+        "# classes": 6
+    },
+    "traffic cones": {
+        "f1_score": 0.3333333333333333,
+        "# samples": 2,
+        "# classes": 1
+    },
+    "cups": {
+        "f1_score": 0.2,
+        "# samples": 4,
+        "# classes": 2
+    },
+    "cakes": {
+        "f1_score": 0.16666666666666666,
+        "# samples": 3,
+        "# classes": 2
+    },
+    "tomatoes": {
+        "f1_score": 0.16666666666666666,
+        "# samples": 3,
+        "# classes": 2
+    },
+    "cows": {
+        "f1_score": 0.0,
+        "# samples": 2,
+        "# classes": 2
+    },
+    "boats": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "sausages": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "zebras": {
+        "f1_score": 0.0,
+        "# samples": 2,
+        "# classes": 2
+    },
+    "umbrellas": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "donuts": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "monkeys": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "masks": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "barrel/buckets": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "breads": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "benches": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "knives": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    },
+    "clocks": {
+        "f1_score": 0.0,
+        "# samples": 2,
+        "# classes": 1
+    },
+    "awnings": {
+        "f1_score": 0.0,
+        "# samples": 1,
+        "# classes": 1
+    }
+}

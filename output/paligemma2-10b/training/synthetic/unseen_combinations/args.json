@@ -1,0 +1,13 @@
+{
+    "model_name": "paligemma2-10b",
+    "batch_size": 1,
+    "device": "cuda",
+    "out_dir": "output/paligemma2-10b/unseen_combinations",
+    "parallel": false,
+    "seed": 42,
+    "command": "extract-train-repr",
+    "data_folder": "/secondDisk/sharedFolder/sure/counting/unseen_combinations_balanced_672_large",
+    "experiment_name": "unseen_combinations",
+    "debug": false,
+    "instruction": "Answer using as few words as possible"
+}

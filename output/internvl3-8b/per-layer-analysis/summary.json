@@ -1,0 +1,566 @@
+{
+    "LLM_layer_1": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "LLM_layer_2": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "LLM_layer_3": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_3": {
+        "accuracy": 0.9998856881572932,
+        "std": 0.00016166135829595913
+    },
+    "SVM_hs_mean_layer_3": {
+        "accuracy": 0.9998856881572932,
+        "std": 0.00016166135829595913
+    },
+    "SVM_img_mean_layer_2": {
+        "accuracy": 0.9998856881572932,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_img_mean_layer_1": {
+        "accuracy": 0.9998285322359397,
+        "std": 0.00024249203744396486
+    },
+    "LLM_layer_4": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_2": {
+        "accuracy": 0.9998285322359397,
+        "std": 0.00014000284309459882
+    },
+    "SVM_hs_mean_layer_1": {
+        "accuracy": 0.9997142203932327,
+        "std": 0.000404153395739924
+    },
+    "SVM_mean_encoder": {
+        "accuracy": 0.9996570644718793,
+        "std": 0.00024249203744391252
+    },
+    "SVM_img_mean_layer_4": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "LLM_layer_5": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_4": {
+        "accuracy": 0.9999428440786465,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_hs_mean_layer_5": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_2": {
+        "accuracy": 0.9853109282121627,
+        "std": 0.004210184467467524
+    },
+    "SVM_img_last_token_layer_1": {
+        "accuracy": 0.9773090992226795,
+        "std": 0.005052402407546753
+    },
+    "LLM_layer_6": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_5": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_6": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_4": {
+        "accuracy": 0.9897690900777322,
+        "std": 0.002804719740828843
+    },
+    "SVM_img_last_token_layer_3": {
+        "accuracy": 0.9855967078189299,
+        "std": 0.003310112536710154
+    },
+    "LLM_layer_7": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_6": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_3": {
+        "accuracy": 0.9512459990855052,
+        "std": 0.0025675671519451333
+    },
+    "SVM_hs_mean_layer_7": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_7": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "LLM_layer_8": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_5": {
+        "accuracy": 0.9894261545496114,
+        "std": 0.0029445008853203596
+    },
+    "SVM_hs_last_token_layer_5": {
+        "accuracy": 0.9675925925925926,
+        "std": 0.0036400739204596735
+    },
+    "SVM_hs_last_token_layer_4": {
+        "accuracy": 0.9659922267946959,
+        "std": 0.002856652720530355
+    },
+    "SVM_hs_mean_layer_8": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "LLM_layer_9": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_2": {
+        "accuracy": 0.9132373113854596,
+        "std": 0.003508461191866234
+    },
+    "SVM_img_mean_layer_8": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_9": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_6": {
+        "accuracy": 0.9886259716506629,
+        "std": 0.003430307747627728
+    },
+    "LLM_layer_10": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_9": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_1": {
+        "accuracy": 0.8009830818472793,
+        "std": 0.003453088126884574
+    },
+    "SVM_hs_last_token_layer_6": {
+        "accuracy": 0.9702789208962049,
+        "std": 0.0018056205988719045
+    },
+    "SVM_img_last_token_layer_7": {
+        "accuracy": 0.9862825788751716,
+        "std": 0.00410330157654267
+    },
+    "LLM_layer_11": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_10": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_10": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_8": {
+        "accuracy": 0.9890832190214907,
+        "std": 0.002951150124239933
+    },
+    "SVM_hs_last_token_layer_7": {
+        "accuracy": 0.967249657064472,
+        "std": 0.0012831472519800888
+    },
+    "LLM_layer_12": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_11": {
+        "accuracy": 0.9999428440786465,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_img_last_token_layer_9": {
+        "accuracy": 0.9886831275720165,
+        "std": 0.0016145915514203782
+    },
+    "SVM_hs_last_token_layer_8": {
+        "accuracy": 0.9738225880201189,
+        "std": 0.0006616276236162728
+    },
+    "SVM_img_mean_layer_11": {
+        "accuracy": 0.9999428440786465,
+        "std": 8.083067914800573e-05
+    },
+    "LLM_layer_13": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_12": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_9": {
+        "accuracy": 0.9757087334247828,
+        "std": 0.0016935908081880645
+    },
+    "SVM_img_last_token_layer_10": {
+        "accuracy": 0.9917123914037494,
+        "std": 0.002605457549163563
+    },
+    "SVM_img_mean_layer_12": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "LLM_layer_14": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_13": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_10": {
+        "accuracy": 0.9880544124371284,
+        "std": 0.0008554315013200328
+    },
+    "SVM_img_mean_layer_13": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_11": {
+        "accuracy": 0.9891975308641975,
+        "std": 0.002913270447502223
+    },
+    "LLM_layer_15": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_11": {
+        "accuracy": 0.9896547782350252,
+        "std": 0.0006616276236162728
+    },
+    "SVM_hs_mean_layer_14": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_14": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_12": {
+        "accuracy": 0.9894833104709647,
+        "std": 0.0029677080442951885
+    },
+    "LLM_layer_16": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_15": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_12": {
+        "accuracy": 0.9895976223136717,
+        "std": 0.0015357829038116447
+    },
+    "SVM_hs_last_token_layer_13": {
+        "accuracy": 0.9932556012802927,
+        "std": 0.0010692893766500607
+    },
+    "SVM_img_mean_layer_15": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "LLM_layer_17": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_13": {
+        "accuracy": 0.9902834933699132,
+        "std": 0.0026428047603330607
+    },
+    "SVM_hs_mean_layer_16": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_14": {
+        "accuracy": 0.996342021033379,
+        "std": 0.001131629508071714
+    },
+    "SVM_hs_last_token_layer_15": {
+        "accuracy": 0.9961133973479653,
+        "std": 0.0007046655238876065
+    },
+    "LLM_layer_18": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_16": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_14": {
+        "accuracy": 0.9899405578417925,
+        "std": 0.0015484930480274388
+    },
+    "SVM_hs_mean_layer_17": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_17": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "LLM_layer_19": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_16": {
+        "accuracy": 0.9978280749885688,
+        "std": 0.0003523327619438273
+    },
+    "SVM_hs_mean_layer_18": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_15": {
+        "accuracy": 0.9871970736168268,
+        "std": 0.0023188686299840805
+    },
+    "SVM_hs_last_token_layer_17": {
+        "accuracy": 0.9993141289437587,
+        "std": 0.00028000568618919764
+    },
+    "LLM_layer_20": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_18": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_19": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_18": {
+        "accuracy": 0.999371284865112,
+        "std": 0.00016166135829595913
+    },
+    "SVM_img_last_token_layer_16": {
+        "accuracy": 0.9859396433470508,
+        "std": 0.0007408254113406099
+    },
+    "LLM_layer_21": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_19": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_19": {
+        "accuracy": 0.9995427526291724,
+        "std": 0.00032332271659191826
+    },
+    "SVM_hs_mean_layer_20": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_17": {
+        "accuracy": 0.9847393689986282,
+        "std": 0.0007000142154730394
+    },
+    "LLM_layer_22": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_mean_layer_20": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_mean_layer_21": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_20": {
+        "accuracy": 0.9992569730224051,
+        "std": 0.0003523327619438273
+    },
+    "SVM_img_mean_layer_21": {
+        "accuracy": 1.0,
+        "std": 0.0
+    },
+    "LLM_layer_23": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_18": {
+        "accuracy": 0.9824531321444901,
+        "std": 0.002690581229067138
+    },
+    "SVM_hs_last_token_layer_21": {
+        "accuracy": 0.999371284865112,
+        "std": 0.000213857875330028
+    },
+    "SVM_hs_mean_layer_22": {
+        "accuracy": 0.9999428440786465,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_img_last_token_layer_19": {
+        "accuracy": 0.9834247828074988,
+        "std": 0.0008891374706278014
+    },
+    "LLM_layer_24": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_22": {
+        "accuracy": 0.9991998171010517,
+        "std": 0.000450046174783459
+    },
+    "SVM_img_mean_layer_22": {
+        "accuracy": 0.9999428440786465,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_hs_mean_layer_23": {
+        "accuracy": 0.9999428440786465,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_img_last_token_layer_20": {
+        "accuracy": 0.9787379972565158,
+        "std": 0.00037041270567033925
+    },
+    "LLM_layer_25": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_23": {
+        "accuracy": 0.9994284407864655,
+        "std": 0.000291439158298611
+    },
+    "SVM_img_mean_layer_23": {
+        "accuracy": 0.9999428440786465,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_hs_mean_layer_24": {
+        "accuracy": 0.9998856881572932,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_img_last_token_layer_21": {
+        "accuracy": 0.973708276177412,
+        "std": 0.00032332271659197057
+    },
+    "LLM_layer_26": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_hs_last_token_layer_24": {
+        "accuracy": 0.9995427526291724,
+        "std": 0.0004277157506600164
+    },
+    "SVM_img_mean_layer_24": {
+        "accuracy": 0.9998856881572932,
+        "std": 8.083067914800573e-05
+    },
+    "SVM_hs_mean_layer_25": {
+        "accuracy": 0.9997713763145861,
+        "std": 0.00021385787533002797
+    },
+    "SVM_hs_last_token_layer_25": {
+        "accuracy": 0.999371284865112,
+        "std": 0.00016166135829595913
+    },
+    "LLM_layer_27": {
+        "accuracy": 0.0,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_22": {
+        "accuracy": 0.9643347050754459,
+        "std": 0.0022003173931093
+    },
+    "SVM_img_mean_layer_25": {
+        "accuracy": 0.9998285322359397,
+        "std": 0.00014000284309459882
+    },
+    "SVM_hs_mean_layer_26": {
+        "accuracy": 0.999485596707819,
+        "std": 0.00024249203744396486
+    },
+    "SVM_hs_last_token_layer_26": {
+        "accuracy": 0.9998856881572932,
+        "std": 8.083067914800573e-05
+    },
+    "LLM_layer_28": {
+        "accuracy": 0.49788523090992226,
+        "std": 0.0
+    },
+    "SVM_img_last_token_layer_23": {
+        "accuracy": 0.9584476451760402,
+        "std": 0.0016226645595082928
+    },
+    "SVM_img_mean_layer_26": {
+        "accuracy": 0.9995999085505258,
+        "std": 0.00021385787532998842
+    },
+    "SVM_hs_last_token_layer_27": {
+        "accuracy": 0.9993141289437585,
+        "std": 0.00014000284309459882
+    },
+    "SVM_hs_mean_layer_27": {
+        "accuracy": 0.9994855967078188,
+        "std": 0.00028000568618919764
+    },
+    "SVM_img_last_token_layer_24": {
+        "accuracy": 0.9506744398719708,
+        "std": 0.0020207669786995153
+    },
+    "SVM_img_mean_layer_27": {
+        "accuracy": 0.999371284865112,
+        "std": 0.000213857875330028
+    },
+    "SVM_hs_last_token_layer_28": {
+        "accuracy": 0.998742569730224,
+        "std": 0.0004916738264199093
+    },
+    "SVM_hs_mean_layer_28": {
+        "accuracy": 0.9991998171010517,
+        "std": 0.0004041533957398717
+    },
+    "SVM_img_last_token_layer_25": {
+        "accuracy": 0.9435299497027893,
+        "std": 0.0010600844187809114
+    },
+    "SVM_img_mean_layer_28": {
+        "accuracy": 0.9988568815729311,
+        "std": 0.0004277157506600164
+    },
+    "SVM_img_last_token_layer_26": {
+        "accuracy": 0.9300411522633745,
+        "std": 0.0030705020618572
+    },
+    "SVM_img_last_token_layer_27": {
+        "accuracy": 0.9253543667123915,
+        "std": 0.004932658667213426
+    },
+    "SVM_img_last_token_layer_28": {
+        "accuracy": 0.9158093278463649,
+        "std": 0.005342168013510727
+    }
+}
