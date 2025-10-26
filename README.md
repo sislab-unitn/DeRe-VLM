@@ -254,4 +254,11 @@ This work is licensed under the [MIT License](https://opensource.org/licenses/MI
 
 ## How to Cite
 ```
+@article{alghisi2025re,
+  title={[De|Re]constructing VLMs' Reasoning in Counting},
+  author={Alghisi, Simone and Roccabruna, Gabriel and Rizzoli, Massimo and Mousavi, Seyed Mahed and Riccardi, Giuseppe},
+  journal={arXiv preprint arXiv:2510.19555},
+  year={2025},
+  note={This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.}
+}
 ```
